@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a94b76c6-2d06-4a8a-8e6c-09e1c8fa3bc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/calculator_brain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/bottom_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/icon_content.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/reusable_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/components/round_icon_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/constants.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/input_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/results_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hXDraAEXeLyqEOQLJhkzOjpHj1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AndroidStudioProjects\bmi-calculator-flutter\lib\compenents" />
+      <recent name="D:\AndroidStudioProjects\bmi-calculator-flutter\lib\screens" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a94b76c6-2d06-4a8a-8e6c-09e1c8fa3bc4" name="Default Changelist" comment="" />
+      <created>1600148742070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600148742070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="158" y="73" key="#PSD" timestamp="1600820795467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="158" y="73" key="#PSD/0.0.1280.680@0.0.1280.680" timestamp="1600820795467" />
+    <state x="321" y="69" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600854176762">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="69" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1600854176762" />
+    <state x="479" y="88" key="FileChooserDialogImpl" timestamp="1600847538044">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="479" y="88" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1600847538044" />
+    <state width="1236" height="236" key="GridCell.Tab.0.bottom" timestamp="1603109678051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="236" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603109678051" />
+    <state width="1236" height="236" key="GridCell.Tab.0.center" timestamp="1603109678051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="236" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603109678051" />
+    <state width="1236" height="236" key="GridCell.Tab.0.left" timestamp="1603109678051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="236" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603109678051" />
+    <state width="1236" height="236" key="GridCell.Tab.0.right" timestamp="1603109678051">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="236" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603109678051" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1600835758151">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600835758151" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1602246012703">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1602246012703" />
+    <state x="271" y="37" width="739" height="606" key="find.popup" timestamp="1600821054753">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="271" y="37" width="739" height="606" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1600821054753" />
+    <state x="298" y="151" key="run.anything.popup" timestamp="1600736901437">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="298" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1600736901437" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1600821015934">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1600821015934" />
+  </component>
+</project>
